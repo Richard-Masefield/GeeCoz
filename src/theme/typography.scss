@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'SohoGothicPro-Medium';
+    src: url("/assets/fonts/SohoGothicPro-Light.otf") format("opentype");
+}
+@font-face {
+    font-family: 'SohoGothicPro-Regular';
+    src: url("/assets/fonts/SohoGothicPro-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url("/assets/fonts/fontawesome-webfont.ttf") format("truetype");
+}
+
+h1{
+   font-family: 'SohoGothicPro-Regular';
+}
+h1{
+    color: $font-primary;
+    margin: 8px 0;
+    font-size: 1.45em;
+    line-height: 1.2em;
+    font-weight: 800;
+}
+
+.coronis-h2 {
+    font-family: 'SohoGothicPro-Medium';
+    font-size: 42px;
+    color: $brand-primary;
+}

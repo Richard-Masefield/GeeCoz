@@ -1,0 +1,153 @@
+{
+	"agency": {
+		"name": "Coronis",
+		"address": {
+
+		},
+		"phone": "",
+		"email": ""
+	},
+	"office": {
+		"name": "Coronis",
+		"address": {
+
+		},
+		"phone": "",
+		"email": ""
+	},
+	"agent": {
+		"name": "Alexandra Porter",
+		"image": "",
+		"phone": "",
+		"email": "",
+		"mobile": ""
+	},
+	"pages": [{
+		"path": "",
+		"title": "Coronis",
+		"type": "LandingComponent",
+		"children": [{
+				"path": "advantage",
+				"title": "The Coronis advantage",
+				"type": "SectionComponent",
+				"children": [{
+						"path": "history",
+						"title": "History",
+						"content": "",
+						"type": "ContentComponent"
+					},
+					{
+						"path": "locations",
+						"title": "Office locations",
+						"content": "",
+						"type": "LocationsComponent"
+					},
+					{
+						"path": "wages",
+						"title": "Wages not commission only",
+						"content": "",
+						"type": "ContentComponent"
+					},
+					{
+						"path": "succeeding",
+						"title": "Succeeding where others fail",
+						"content": "",
+						"type": "ContentComponent"
+					},
+					{
+						"path": "method",
+						"title": "Method of sale",
+						"content": "",
+						"type": "ContentComponent"
+					}
+				]
+			},
+			{
+				"path": "saying",
+				"title": "What people are saying",
+				"type": "SectionComponent",
+				"children": [{
+						"path": "ratemyagent",
+						"title": "Rate My Agent",
+						"content": "",
+						"type": "RatemyagentComponent"
+					},
+					{
+						"path": "videotestimonials",
+						"title": "Video Testimonials",
+						"content": "",
+						"type": "VideoTestimonialsComponent"
+					}
+				]
+			},
+			{
+				"path": "marketing",
+				"title": "Out of this world marketing",
+				"type": "SectionComponent",
+				"children": [{
+						"path": "premium",
+						"title": "Premium online exposure",
+						"content": "",
+						"type": "ContentComponent"
+					},
+					{
+						"path": "musthave",
+						"title": "A must have",
+						"content": "",
+						"type": "PortalUpgradeTractionComponent"
+					},
+					{
+						"path": "photography",
+						"title": "Photography",
+						"content": "",
+						"type": "ContentComponent"
+					},
+					{
+						"path": "extras",
+						"title": "Extras",
+						"content": "",
+						"type": "ContentComponent"
+					}
+				]
+			},
+			{
+				"path": "here",
+				"title": "It’s all here",
+				"children": [{
+						"path": "mortgage",
+						"title": "Mortgage and Finance",
+						"content": ""
+					},
+					{
+						"path": "conveyancing",
+						"title": "Conveyancing",
+						"content": ""
+					},
+					{
+						"path": "buildingpest",
+						"title": "Building and Pest",
+						"content": ""
+					},
+					{
+						"path": "smokealarms",
+						"title": "Smoke Alarms",
+						"content": ""
+					},
+					{
+						"path": "propertymanagement",
+						"title": "Property Management",
+						"content": ""
+					}
+				]
+			},
+			{
+				"path": "informed",
+				"title": "Be better informed",
+				"type": "SectionComponent",
+				"children": [
+
+				]
+			}
+		]
+	}]
+}
